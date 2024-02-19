@@ -1,0 +1,51 @@
+.box{
+    /* background-color: blue !important; */
+    padding: 4%;
+    padding-bottom: 0px;
+    padding-top: 82px;
+}
+
+.table-head{
+background-color: rgb(236, 236, 236) !important;
+font-size: 11pt !important;
+font-weight: 600 !important;
+text-align: center !important;
+padding: 10px !important;
+}
+
+.table-body{
+    background-color: rgb(247, 247, 247);
+    font-size: 10pt !important;
+    text-align: center !important;
+}
+
+/* LiveBotTable.css */
+.box .table-container {
+    height: 86vh;
+    overflow: auto;
+  }
+  /* Styling for the scrollbar */
+  .box .table-container::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  .box .table-container::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  .box .table-container::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 50px !important;
+  }
+  
+  .box .table-container::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+
+
+  ::-webkit-scrollbar {
+    width: 8px;
+  }  
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+  }

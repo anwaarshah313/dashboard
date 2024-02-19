@@ -1,0 +1,18 @@
+.toolbar{
+    background-color: rgb(179, 35, 35);
+    padding-left: 4% !important;
+    }
+    .appbar{
+        background-color: aqua;
+        /* padding: 10px;
+        top: 30px !important; */
+    }
+
+    .item{
+        /* background-color: aqua; */
+        padding: 8px;
+    }
+    .navlink{
+        text-decoration: none !important;
+        color: white;
+    }
